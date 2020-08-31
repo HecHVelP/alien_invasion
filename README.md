@@ -1,4 +1,4 @@
-# alien_invasion
+
 <h1>👽 Alien Invasion</h1>
 <p>Es un clon del popular juego de arcade con el mismo nombre. Cree este juego siguiendo el libro "Python Crash Course". La razon para esto fue mejorar mis habilidades con python</p>
 <h1>🚀 Introduccion
