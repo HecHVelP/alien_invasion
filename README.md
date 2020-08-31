@@ -23,4 +23,4 @@ $ cd Alien-Invasion
 <h3>Ejecuntando</h3>
 $ python alien_invasion.py
 
-QUE LA FUERZA TE ACOMPAÑE!!!
+<h2>QUE LA FUERZA TE ACOMPAÑE!!!</h2>
