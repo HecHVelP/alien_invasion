@@ -15,6 +15,13 @@
   <dt>Flechas izquierda</dt>
   <dd>derecha para mover la nave izquierda o derecha</dd>
 </dl>
- 
+<h1>⚔ Let's play</h1>
+<h3>Clonando el repositorio</h3>
+$ clone https://github.com/HecHVelP/alien_invasion.git
+$ cd Alien-Invasion
+<h3>Ejecuntando</h3>
+$ python alien_invasion.py
+
+<h2>QUE LA FUERZA TE ACOMPAÑE!!!</h2>
 
   
